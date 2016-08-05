@@ -1,0 +1,240 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background:url(../images/background4.jpg) repeat center;	
+}
+
+h1 {
+	
+}
+
+.main {
+	position: relative;
+	width: 760px;
+	
+	margin: 20px auto 20px auto;
+	
+	color:;
+	
+	background-color:;
+	
+}
+
+.banner {
+	position: relative;
+	width: 760px;
+	height: 250px;
+	
+	box-shadow: 15px 12px 25px #000000;
+	opacity: 1;
+}	
+
+.content {
+	position: absolute;
+	width: 760px;
+	margin: 30px auto 20px auto;
+	color: #FFF;
+	top: 250px;
+	
+}
+.content_back {
+	position: relative;
+	width: 700px;
+	height: 290px;
+	margin: 30px auto 20px auto;
+	background-color: #222222;
+	opacity: .75;
+	box-shadow: 15px 12px 25px #000000;
+		
+}
+.content_back_reg {
+	position: relative;
+	width: 700px;
+	height: 415px;
+	margin: 30px auto 20px auto;
+	background-color: #222222;
+	opacity: .75;
+	box-shadow: 15px 12px 25px #000000;
+		
+}
+.content_back_edit {
+	position: relative;
+	width: 700px;
+	height: 550px;
+	margin: 30px auto 20px auto;
+	background-color: #222222;
+	opacity: .75;
+	box-shadow: 15px 12px 25px #000000;
+		
+}
+
+.fail {
+	color: #CC0003;
+		
+}
+.icon {
+	position: absolute;
+	opacity: .6;
+	left: 702px;
+	top: 191px;
+	
+}
+.icon2 {
+	position: absolute;
+	opacity: .6;
+	left: 705px;
+	top: 136px;
+}
+.icon3 {
+	position: absolute;
+	opacity: .6;
+	left: 594px;
+	top: 147px;
+}
+.icon4 {
+	position: absolute;
+	opacity: .6;
+	left: 708px;
+	top: 95px;	
+}
+.iconText {
+	position: absolute;
+	width: 157px;
+	height: 30px;
+	left: 540px;
+	top: 92px;
+	color: #FFF;
+	font-size: 24px;
+	opacity: .8;
+	text-align: center;
+}
+
+.caption_container {
+
+	width: 600px;
+	
+	margin: 0px auto 0px auto;
+	padding: 0px 0px 0px 5px;
+	border-left: 3px solid #222222;
+	
+	
+}
+
+#captions {
+}
+#captions h2 {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size: 32px;
+	font-weight: normal;
+	margin: 0px 0px 5px 0px;
+	color: #000;
+	text-align: center;		
+}
+
+#captions p {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	color: #000;
+	margin: 0px 0px 0px 3px;
+		text-align: center;		
+
+}
+
+.cap_contents {
+	position: relative;
+	width: 600px;
+	margin: 20px auto 50px auto;
+	
+	background-image: url(../images/tile.png);	
+	box-shadow: 15px 12px 50px #000000;
+}
+
+.tile_contents {
+	position: relative;
+	width: 600px;
+	height: 250px;
+}
+		
+.pic_frame {
+	position: absolute;
+	width: 175px;
+	height: 175px;
+	left: 20px;
+	top: 37.5px;	
+}
+.content_frame {
+	position: absolute;
+	width: 250px;
+	height: 200px;
+	top: 35px;
+	left: 200px;
+	color: #FFF;
+	opacity: .8;
+	text-align: center;
+}
+.stock_frame {
+	position: absolute;
+	width: 150px;
+	height: 200px;
+	top: 30px;
+	left: 425px;
+	color: #AAAAAA;
+	opacity: .8;
+		text-align: center;
+
+}
+
+.shopping_content {
+	position: relative;
+}
+.shopping_back {
+	position: relative;
+	width: 700px;
+	height: 175px;
+	margin: 30px auto 0px auto;
+	background-color: #222222;
+	opacity: .75;
+	box-shadow: 15px 12px 25px #000000;
+}
+
+.user_info {
+	position: absolute;
+	width: 225px;
+	height: 150px;
+	left: 0px;
+	top: 15px;
+	
+	color: #FFF;
+
+}
+.shopping_title {
+	position: absolute;
+	width: 400px;
+	height: 115px;	
+	left: 175px;
+	top: 30px;
+	
+	color: #FFF;
+}
+.shopping_button {
+	position: absolute;
+	width: 125px;
+	height: 100px;
+	right: 60px;
+	top: 20px;
+}
+
+.search {
+	position: absolute;
+	width: 400px;
+	height: 30px;
+	left: 260px;
+	top: 212px;
+	opacity: .6;
+		
+}
+.money_color {
+	color: #A3C1D0;	
+}
+
