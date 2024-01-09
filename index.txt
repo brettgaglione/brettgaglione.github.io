@@ -3,7 +3,7 @@
 <body>
 
 <h1>My Bretts World </h1>
-<p>My first paragraph.</p>
+<p>Using this as a sandbox for playing with Draggable JS</p>
 
 </body>
 </html>
