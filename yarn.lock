@@ -5,8 +5,17 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
+"@shopify/draggable@npm:^1.1.3":
+  version: 1.1.3
+  resolution: "@shopify/draggable@npm:1.1.3"
+  checksum: fe785e187d164bb2777b553999b8a52d882d3f833619c379ca1585057ddc7840ea3f4971ad4ba60ef1e2971b23af95b75a43a1db6cf42b88cf7d13829e1ae563
+  languageName: node
+  linkType: hard
+
 "brettgaglione.github.io@workspace:.":
   version: 0.0.0-use.local
   resolution: "brettgaglione.github.io@workspace:."
+  dependencies:
+    "@shopify/draggable": "npm:^1.1.3"
   languageName: unknown
   linkType: soft
