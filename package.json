@@ -1,0 +1,7 @@
+{
+  "name": "brettgaglione.github.io",
+  "packageManager": "yarn@4.0.2",
+  "dependencies": {
+    "@shopify/draggable": "^1.1.3"
+  }
+}
